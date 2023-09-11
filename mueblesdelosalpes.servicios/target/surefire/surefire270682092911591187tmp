@@ -1,0 +1,8 @@
+#surefire
+#Mon Sep 11 14:42:36 COT 2023
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\juane\\OneDrive\\Documentos\\NetbeansProjects8.1\\soporte-clases-master\\mueblesdelosalpes.servicios
+file.encoding=UTF-8
+localRepository=C\:\\Users\\juane\\.m2\\repository
+netbeans.deploy=true
+basedir=C\:\\Users\\juane\\OneDrive\\Documentos\\NetbeansProjects8.1\\soporte-clases-master\\mueblesdelosalpes.servicios
